@@ -1,0 +1,12 @@
+/* @import '@slickgrid-universal/common/dist/styles/sass/slickgrid-theme-bootstrap.scss'; */
+
+
+
+
+@import 'ngx-toastr/toastr';
+@import '~@fortawesome/fontawesome-free/css/all.css';
+@import 'ngx-toastr/toastr';
+@import "~@ng-select/ng-select/themes/material.theme.css";
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+/* ngm */
